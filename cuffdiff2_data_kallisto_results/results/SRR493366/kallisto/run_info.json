@@ -1,0 +1,8 @@
+{
+	"n_targets": 173259,
+	"n_bootstraps": 100,
+	"kallisto_version": "0.42.2.1",
+	"index_version": 10,
+	"start_time": "Tue Jun 30 16:20:19 2015",
+	"call": "/home/hjp/dev_versions/kallisto_elen quant -i annotation/Homo_sapiens.GRCh38.rel80.cdna.all.kidx -b 100 -t 7 -o results/paired/SRR493366/kallisto_elen data/paired/SRR493366/SRR493366_1.fastq.gz data/paired/SRR493366/SRR493366_2.fastq.gz"
+}
